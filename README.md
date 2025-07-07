@@ -23,8 +23,8 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/daycyberwox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="daycyberwox" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abisolajohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abisolajohnson" height="30" width="40" /></a>
+<a href="https://twitter.com/chownmanny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="manny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manasseh-adu-gyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannygyan" height="30" width="40" /></a>
 
 ---
 

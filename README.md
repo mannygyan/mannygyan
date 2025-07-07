@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Manny 👋🏾</h1>
+<h3 align="center">
+  <a href="https://github.com/manny-233">Programmer</a> • 
+  <a href="https://www.linkedin.com/in/manasseh-adu-gyan">Cybersecurity Professional</a> • 
+  <a href="https://www.mannygyan.com">Blogger</a>
+</h3>
 
-<!--
-**manny-233/manny-233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Seeking to apply my cybersecurity knowledge and technical skills in real-world environments,<br/>
+  while continuously learning and collaborating with others to build secure and innovative solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Highlights
+
+- 💼 I’m currently an <a href="https://www.linkedin.com/posts/manasseh-adu-gyan_im-thrilled-to-share-that-ive-officially-activity-7333820428915793920-ebOV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADstlzIB4bT7Fp8dqrKn63Cf_TR_QYEmlko" target="_blank">**IT Security Analyst Intern**</a> at <a href="https://www.mainlinehealth.org/" target="_blank">Main Line Health</a>
+- 🔐 Currently focused on Blue Teaming modules from <a href="https://academy.tcm-sec.com/" target="_blank">**TCM Security**</a>
+- ✍🏾 I write about security, homelab projects, and learning journeys on my <a href="https://mannygyan.com" target="_blank">**blog**</a>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/daycyberwox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="daycyberwox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abisolajohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abisolajohnson" height="30" width="40" /></a>
+
+---
+
+### 🚧 Projects
+
+They are coming, keep calm...
+
+

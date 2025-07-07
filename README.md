@@ -16,7 +16,7 @@
 
 - 💼 I’m currently an <a href="https://www.linkedin.com/posts/manasseh-adu-gyan_im-thrilled-to-share-that-ive-officially-activity-7333820428915793920-ebOV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADstlzIB4bT7Fp8dqrKn63Cf_TR_QYEmlko" target="_blank">**IT Security Analyst Intern**</a> at <a href="https://www.mainlinehealth.org/" target="_blank">Main Line Health</a>
 - 🔐 Currently focused on Blue Teaming modules from <a href="https://academy.tcm-sec.com/" target="_blank">**TCM Security**</a>
-- ✍🏾 I write about security, homelab projects, and learning journeys on my <a href="https://mannygyan.com/" target="_blank">**blog**</a>
+- ✍🏾 I write about security, homelab projects, and learning journeys on my <a href="https://www.mannygyan.com/" target="_blank">**blog**</a>
 
 ---
 

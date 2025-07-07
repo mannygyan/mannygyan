@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manny 👋🏾</h1>
 <h3 align="center">
-  <a href="https://github.com/manny-233">Programmer</a> • 
+  <a href="https://github.com/mannygyan">Programmer</a> • 
   <a href="https://www.linkedin.com/in/manasseh-adu-gyan">Cybersecurity Professional</a> • 
   <a href="https://www.mannygyan.com">Blogger</a>
 </h3>

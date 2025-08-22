@@ -14,7 +14,7 @@
 
 ### 🚀 Current Highlights
 
-- 💼 I’m currentlu a CyberSecurity Student at Rowan College at Burlington County.
+- 💼 I’m currently a CyberSecurity Student at Rowan College at Burlington County.
 - 🔐 Currently focused on Blue Teaming modules from <a href="https://academy.tcm-sec.com/" target="_blank">**TCM Security**</a>
 - ✍🏾 I write about security, homelab projects, and learning journeys on my <a href="https://www.mannygyan.com/" target="_blank">**blog**</a>
 
